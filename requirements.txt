@@ -1,0 +1,7 @@
+aiogram
+openai
+python-dotenv
+aiofiles
+sqlalchemy
+aiosqlite
+httpx
